@@ -1,6 +1,6 @@
 {
-  "display_name": "Java 21, JMock 2.12 with JUnit 4",
-  "image_name": "cyberdojofoundation/java_jmock:d965ca3",
+  "display_name": "Java 21, JMock 2.13.1 with JUnit 4",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_jmock:1a88b80",
   "visible_filenames": [
     "DeepThoughtTest.java",
     "DeepThought.java",
