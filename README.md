@@ -1,4 +1,4 @@
-[![Github Action (main)](https://github.com/cyber-dojo-start-points/java-jmock/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/java-jmock/actions)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
 ### display_name="Java 21, JMock 2.13.1 with JUnit 4"
 ### image_name="[ghcr.io/cyber-dojo-languages/java_jmock](https://github.com/cyber-dojo-languages/java-jmock/pkgs/container/java_jmock)"
