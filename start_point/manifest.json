@@ -1,20 +1,21 @@
 {
-  "display_name": "Java 21, JMock 2.13.1 with JUnit 4",
+  "display_name": "Java 26.0.2.1, JMock 2.13.1 with JUnit 4",
   "language": [
     "Java",
-    "21"
+    "26.0.2.1"
   ],
   "test_framework": [
     "JMock",
     "2.13.1"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_jmock:1a88b80",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_jmock:f53f708",
   "visible_filenames": [
     "DeepThoughtTest.java",
     "DeepThought.java",
     "AnswerSeeker.java",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".java"
   ],
