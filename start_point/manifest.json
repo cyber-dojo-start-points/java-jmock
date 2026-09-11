@@ -1,14 +1,14 @@
 {
-  "display_name": "Java 26.0.2.1, JMock 2.13.1 with JUnit 4",
+  "display_name": "Java 26.0, JMock 2.13 with JUnit 4",
   "language": [
     "Java",
-    "26.0.2.1"
+    "26.0"
   ],
   "test_framework": [
     "JMock",
-    "2.13.1"
+    "2.13"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_jmock:f53f708",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_jmock:0a25ec4",
   "visible_filenames": [
     "DeepThoughtTest.java",
     "DeepThought.java",
