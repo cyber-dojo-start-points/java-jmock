@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^java\\.lang\\.AssertionError: unexpected invocation: answerSeeker\\.receiveAnswer\\(<42>\\)$": 1,
+    "^  expected once, never invoked: answerSeeker\\.receiveAnswer\\(<99>\\); returns <42>$": 1,
+    "^      parameter 0 did not match: <99>, because was <42>$": 1,
+    "^Tests run: 1, +Failures: 1$": 1
+  }
+}

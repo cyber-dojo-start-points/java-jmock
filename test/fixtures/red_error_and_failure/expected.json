@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^java\\.lang\\.ArithmeticException: / by zero$": 1,
+    "^java\\.lang\\.AssertionError: unexpected invocation: answerSeeker\\.receiveAnswer\\(<42>\\)$": 1,
+    "^There were 2 failures:$": 1,
+    "^Tests run: 1, +Failures: 2$": 1
+  }
+}

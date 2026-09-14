@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^java\\.lang\\.AssertionError: not all expectations were satisfied$": 1,
+    "^  ! expected once, never invoked: answerSeeker\\.receiveAnswer\\(<42>\\)$": 1,
+    "^There was 1 failure:$": 1,
+    "^Tests run: 1, +Failures: 1$": 1,
+    "unexpected invocation": 0
+  }
+}

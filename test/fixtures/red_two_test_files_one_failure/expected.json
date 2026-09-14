@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^1\\) the_answer_is_three_digits_long\\(AnswerSizeTest\\)$": 1,
+    "^  expected once, never invoked: answerSeeker\\.receiveAnswer\\(a value greater than <99>\\)$": 1,
+    "^There was 1 failure:$": 1,
+    "^Tests run: 4, +Failures: 1$": 1
+  }
+}

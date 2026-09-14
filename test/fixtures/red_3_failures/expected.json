@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^java\\.lang\\.AssertionError: unexpected invocation: answerSeeker\\.receiveAnswer\\(<5400>\\)$": 2,
+    "^java\\.lang\\.AssertionError: unexpected invocation: answerSeeker\\.receiveName\\(\"Zaphod Beeblebrox\"\\)$": 1,
+    "^There were 3 failures:$": 1,
+    "^Tests run: 3, +Failures: 3$": 1
+  }
+}

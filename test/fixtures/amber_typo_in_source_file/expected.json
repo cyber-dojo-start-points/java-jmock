@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^DeepThought\\.java:[0-9]+: error: cannot find symbol$",
+    "^  symbol: +method sixTimesSevn\\(\\)$",
+    "^  location: +class DeepThought$"
+  ],
+  "match_counts": {
+    "^1 error$": 1,
+    "^JUnit version ": 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^java\\.lang\\.AssertionError: unexpected invocation: answerSeeker\\.receiveAnswer\\(<54>\\)$": 1,
+    "^1\\) life_the_universe_and_everything\\(DeepThoughtTest\\)$": 1,
+    "^There was 1 failure:$": 1,
+    "^Tests run: 3, +Failures: 1$": 1
+  }
+}
